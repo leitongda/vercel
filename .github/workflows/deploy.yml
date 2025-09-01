@@ -40,5 +40,5 @@ jobs:
           project: "vercel-27"
           entrypoint: "jsr:@deno/nextjs-start/v15"
           root: "."
-          include: .next, public
+          
           
